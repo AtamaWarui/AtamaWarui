@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MoonJanah
+- 👋 Hi, I’m Mounia Janah
 - 👀 I’m interested in Front-End development and mobile robotic applications
 - 🌱 I’m currently learning Selenium, ReactJS and Angular
 - 💞️ I’m looking to collaborate with services such as custom web applications and Front-end Web development
