@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mounia Janah
-- 👀 I’m interested in Front-End development and mobile robotic applications
-- 🌱 I’m currently learning Selenium, ReactJS and Angular
-- 💞️ I’m looking to collaborate with services such as custom web applications and Front-end Web development
+- 👀 I’m interested in Quality Assurance Testing and mobile robotic applications
+- 🌱 You will find Scenarios of Testing using Selenium and TestNG
+- 💞️ I’m actively looking for a Job in Information Technology field
 - 📫 How to reach me : https://www.linkedin.com/in/mouniajanah/
 
 <!---
